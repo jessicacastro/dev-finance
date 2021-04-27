@@ -27,4 +27,4 @@ This application runs only with the Live Code extension of VS Code or by opening
 ![](/assets/application-screen.png)
 
 
-<p align="center">Made with :blue_heart:  by 👩🏾‍💻 <a href="https://linkedin.com/in/jessicacastros">Jessica Castro</a></p>
+<p align="center">Made by 👩🏾‍💻 <a href="https://linkedin.com/in/jessicacastros">Jessica Castro</a> with 💙</p>
