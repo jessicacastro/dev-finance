@@ -4,17 +4,17 @@
 
 <br />
 
-## ABOUT THE REPOSITORY :pencil:
+### ABOUT THE REPOSITORY :pencil:
 This repository was created to store the study application on HTML, CSS and Javascript. 
 
-## APPLICATION PURPOSE :information_source:
+### APPLICATION PURPOSE :information_source:
 Application created to manage your money, 
 through insertion of incomes and expenses in your account.
 
-## RUNNING THE APPLICATION :computer:
+### RUNNING THE APPLICATION :computer:
 This application runs only with the Live Code extension of VS Code or by opening HTML directly in the browser
 
-## LEARNINGS :notebook:
+### LEARNINGS :notebook:
 - HTML, CSS, Javascript
 - Mobile First
 - Responsiveness
@@ -23,8 +23,8 @@ This application runs only with the Live Code extension of VS Code or by opening
 - Javascript functions
 - Javascript import
 
-## APPLICATION SCREEN :calling:
+### APPLICATION SCREEN :calling:
 ![](/assets/application-screen.png)
 
 
-<p align="center">Made with :hearts: by :woman_technologist: [Jessica Castro](https://linkedin.com/in/jessicacastros)</p>
+<p align="center">Made with :blue_heart: by 👩🏾‍💻 <a href="https://linkedin.com/in/jessicacastros">Jessica Castro</a></p>
